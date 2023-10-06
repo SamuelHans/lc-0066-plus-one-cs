@@ -1,0 +1,14 @@
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\bin\Debug\net6.0\LC-0066-PlusOne.exe
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\bin\Debug\net6.0\LC-0066-PlusOne.deps.json
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\bin\Debug\net6.0\LC-0066-PlusOne.runtimeconfig.json
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\bin\Debug\net6.0\LC-0066-PlusOne.dll
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\bin\Debug\net6.0\LC-0066-PlusOne.pdb
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\LC-0066-PlusOne.GeneratedMSBuildEditorConfig.editorconfig
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\LC-0066-PlusOne.AssemblyInfoInputs.cache
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\LC-0066-PlusOne.AssemblyInfo.cs
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\LC-0066-PlusOne.csproj.CoreCompileInputs.cache
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\LC-0066-PlusOne.dll
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\refint\LC-0066-PlusOne.dll
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\LC-0066-PlusOne.pdb
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\LC-0066-PlusOne.genruntimeconfig.cache
+J:\Files\Working\Repos\LeetCode\lc-0066-plus-one-cs\LC-0066-PlusOne\LC-0066-PlusOne\obj\Debug\net6.0\ref\LC-0066-PlusOne.dll
